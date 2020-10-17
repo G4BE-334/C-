@@ -1,0 +1,12 @@
+C:\Users\gtlar\source\repos\NewBank\bin\Debug\netcoreapp3.1\NewBank.exe
+C:\Users\gtlar\source\repos\NewBank\bin\Debug\netcoreapp3.1\NewBank.deps.json
+C:\Users\gtlar\source\repos\NewBank\bin\Debug\netcoreapp3.1\NewBank.runtimeconfig.json
+C:\Users\gtlar\source\repos\NewBank\bin\Debug\netcoreapp3.1\NewBank.runtimeconfig.dev.json
+C:\Users\gtlar\source\repos\NewBank\bin\Debug\netcoreapp3.1\NewBank.dll
+C:\Users\gtlar\source\repos\NewBank\bin\Debug\netcoreapp3.1\NewBank.pdb
+C:\Users\gtlar\source\repos\NewBank\obj\Debug\netcoreapp3.1\NewBank.csproj.CoreCompileInputs.cache
+C:\Users\gtlar\source\repos\NewBank\obj\Debug\netcoreapp3.1\NewBank.AssemblyInfoInputs.cache
+C:\Users\gtlar\source\repos\NewBank\obj\Debug\netcoreapp3.1\NewBank.AssemblyInfo.cs
+C:\Users\gtlar\source\repos\NewBank\obj\Debug\netcoreapp3.1\NewBank.dll
+C:\Users\gtlar\source\repos\NewBank\obj\Debug\netcoreapp3.1\NewBank.pdb
+C:\Users\gtlar\source\repos\NewBank\obj\Debug\netcoreapp3.1\NewBank.genruntimeconfig.cache
